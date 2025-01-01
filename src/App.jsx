@@ -8,6 +8,12 @@ import { ToastContainer} from 'react-toastify';
 import Footer from './Components/Footer'
 // import "react-toastify/dist/ReactToastify.css
 
+{/** in this project i have use the 
+  web3forms for getting mail
+  toastify for toast message
+  and animation for motion framer
+   */}
+
 const App = () => {
   return (
     <div className='w-full overflow-hidden'>
